@@ -1,4 +1,4 @@
-from flask import Flask,request,render_template
+from flask import Flask,request,render_template,redirect,url_for
 
 app = Flask(__name__)
 
@@ -38,9 +38,27 @@ def successResult(score):
     return render_template('result.html', exp=exp) 
 
 
-@app.route('/route_name')
-def method_name():
-    pass
+@app.route('/home')
+def home():
+    # return "the person score is, "+ str(score)
+    # res = ""
+    # if score > 50:
+    #     res = "pass"
+    # else:
+    #     res = "fail"
+
+    return "<h1> this is home</h1>" 
+
+@app.route('/submit',methods=['POST','GET'])
+def submit():
+    if request.method == 'POST':
+        print(request.form.get('email'))
+        print("this is post method")
+        return redirect(url_for('home'))
+        # return f"this is post method {request.form.get('email')}"
+    else:
+        return render_template("index.html")
+    
 
 
 
