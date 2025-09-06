@@ -1,4 +1,4 @@
-from flask import Flask,render_template 
+from flask import Flask,render_template,request
 # render_template is used to render html pages
 
 app = Flask(__name__)
@@ -16,10 +16,12 @@ def home():
 
 @app.route('/form',methods=['GET','POST'])
 def method_name():
-    if method_name == 'POST':
+    if request.method == 'POST':
+        print(request.form.get('email'))
+        print("this is post method")
         return "this is post method"
     else:
-        return "this is get method"
+        return render_template("index.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
