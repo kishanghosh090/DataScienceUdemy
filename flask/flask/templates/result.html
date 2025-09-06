@@ -13,6 +13,12 @@
     </style>
   </head>
   <body>
-    <h1>the result is {{result}}</h1>
+    <!-- <h1>the result is {{result}}</h1> -->
+
+    {% if exp['score'] > 50 %}
+    <h1>the result is {{exp['result']}}</h1>
+    {% else %}
+    <h1>the result is {{exp['result']}}</h1>
+    {% endif %}
   </body>
 </html>
