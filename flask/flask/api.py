@@ -15,6 +15,10 @@ def api_data():
         data['results'] = [item for item in data['results'] if query in item['name']]
     return jsonify(data)
 
+@app.route('/')
+def home():
+    return "Welcome to The API"
+
 
 if __name__ == "__main__":
     app.run(debug=True)
