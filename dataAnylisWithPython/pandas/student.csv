@@ -1,0 +1,1001 @@
+StudentID,Name,Age,Gender,Department,Math,Physics,Chemistry,Attendance,City
+1001,Student1,24,M,Computer Science,60,46,62,84,Delhi
+1002,Student2,21,F,Biology,52,43,97,69,Mumbai
+1003,Student3,22,M,Computer Science,60,76,89,81,Delhi
+1004,Student4,24,M,Computer Science,47,95,69,78,Delhi
+1005,Student5,20,M,Computer Science,85,40,76,60,Mumbai
+1006,Student6,22,M,Chemistry,79,40,64,66,Mumbai
+1007,Student7,22,F,Chemistry,85,86,87,63,Delhi
+1008,Student8,24,F,Physics,46,59,66,60,Pune
+1009,Student9,19,F,Mathematics,62,58,90,74,Hyderabad
+1010,Student10,20,M,Biology,83,68,53,99,Mumbai
+1011,Student11,24,F,Biology,71,49,96,71,Kolkata
+1012,Student12,20,M,Biology,50,99,87,81,Bangalore
+1013,Student13,20,F,Physics,61,57,98,81,Chennai
+1014,Student14,22,F,Chemistry,61,67,86,76,Delhi
+1015,Student15,21,F,Physics,82,74,93,88,Delhi
+1016,Student16,20,M,Biology,64,82,75,73,Chennai
+1017,Student17,23,F,Mathematics,61,86,78,79,Hyderabad
+1018,Student18,22,F,Computer Science,67,70,55,92,Chennai
+1019,Student19,19,M,Chemistry,68,66,95,74,Mumbai
+1020,Student20,21,F,Chemistry,52,50,61,71,Chennai
+1021,Student21,23,M,Physics,57,88,60,99,Delhi
+1022,Student22,23,F,Chemistry,41,88,93,79,Chennai
+1023,Student23,19,M,Biology,68,77,60,89,Bangalore
+1024,Student24,21,M,Biology,60,44,47,97,Kolkata
+1025,Student25,22,F,Physics,54,47,88,62,Mumbai
+1026,Student26,18,M,Biology,91,73,55,87,Chennai
+1027,Student27,21,M,Mathematics,66,87,98,85,Delhi
+1028,Student28,19,M,Physics,89,91,94,89,Pune
+1029,Student29,23,M,Mathematics,70,95,70,72,Kolkata
+1030,Student30,22,M,Computer Science,54,51,81,72,Mumbai
+1031,Student31,21,M,Mathematics,90,77,49,61,Delhi
+1032,Student32,18,F,Computer Science,62,40,71,96,Hyderabad
+1033,Student33,18,M,Computer Science,63,70,98,97,Bangalore
+1034,Student34,20,M,Mathematics,83,43,73,61,Hyderabad
+1035,Student35,20,F,Physics,52,88,48,95,Bangalore
+1036,Student36,24,F,Biology,61,84,56,85,Chennai
+1037,Student37,19,F,Biology,82,89,50,70,Mumbai
+1038,Student38,21,F,Computer Science,76,44,71,67,Chennai
+1039,Student39,21,F,Computer Science,72,69,49,99,Bangalore
+1040,Student40,24,F,Physics,95,95,61,81,Bangalore
+1041,Student41,23,F,Chemistry,42,63,96,79,Bangalore
+1042,Student42,23,M,Mathematics,93,98,56,67,Kolkata
+1043,Student43,24,M,Computer Science,58,42,43,88,Delhi
+1044,Student44,23,F,Biology,62,50,87,99,Mumbai
+1045,Student45,20,M,Physics,68,84,91,85,Chennai
+1046,Student46,21,M,Mathematics,69,43,86,89,Chennai
+1047,Student47,24,M,Physics,78,65,64,76,Hyderabad
+1048,Student48,21,F,Mathematics,83,66,98,79,Bangalore
+1049,Student49,18,F,Mathematics,86,85,60,75,Pune
+1050,Student50,20,M,Computer Science,64,93,76,66,Bangalore
+1051,Student51,22,F,Physics,76,82,77,75,Bangalore
+1052,Student52,20,M,Physics,86,66,88,86,Pune
+1053,Student53,24,M,Biology,47,81,40,82,Chennai
+1054,Student54,22,M,Biology,81,90,64,83,Hyderabad
+1055,Student55,18,M,Computer Science,97,89,90,68,Delhi
+1056,Student56,24,F,Computer Science,55,45,75,94,Pune
+1057,Student57,19,F,Chemistry,47,98,56,79,Kolkata
+1058,Student58,21,F,Biology,40,54,80,96,Mumbai
+1059,Student59,18,M,Mathematics,83,92,63,76,Pune
+1060,Student60,21,F,Physics,44,69,41,90,Delhi
+1061,Student61,23,M,Computer Science,42,81,79,67,Chennai
+1062,Student62,19,F,Physics,40,76,54,74,Kolkata
+1063,Student63,19,M,Physics,43,97,71,90,Kolkata
+1064,Student64,18,M,Chemistry,79,76,78,89,Kolkata
+1065,Student65,19,M,Biology,74,81,98,79,Bangalore
+1066,Student66,22,F,Computer Science,71,99,45,98,Mumbai
+1067,Student67,19,F,Physics,81,76,40,71,Chennai
+1068,Student68,21,F,Computer Science,73,74,86,76,Chennai
+1069,Student69,21,F,Mathematics,82,62,62,89,Kolkata
+1070,Student70,24,M,Chemistry,64,45,97,88,Chennai
+1071,Student71,21,F,Mathematics,49,43,78,78,Mumbai
+1072,Student72,24,F,Computer Science,60,57,96,70,Mumbai
+1073,Student73,21,M,Computer Science,85,99,56,93,Hyderabad
+1074,Student74,22,M,Biology,78,48,73,66,Pune
+1075,Student75,24,M,Physics,66,88,98,93,Pune
+1076,Student76,20,F,Physics,66,68,80,79,Hyderabad
+1077,Student77,23,M,Mathematics,41,52,68,97,Delhi
+1078,Student78,18,M,Chemistry,80,98,48,83,Pune
+1079,Student79,21,M,Physics,87,86,52,69,Mumbai
+1080,Student80,19,F,Biology,52,91,45,91,Mumbai
+1081,Student81,21,M,Mathematics,48,56,45,74,Pune
+1082,Student82,19,F,Mathematics,91,84,59,96,Mumbai
+1083,Student83,23,F,Biology,75,71,91,79,Hyderabad
+1084,Student84,23,M,Chemistry,61,87,92,62,Kolkata
+1085,Student85,23,M,Biology,81,61,42,96,Kolkata
+1086,Student86,19,F,Chemistry,65,43,56,99,Chennai
+1087,Student87,21,M,Biology,97,44,88,67,Kolkata
+1088,Student88,23,M,Biology,93,76,51,99,Bangalore
+1089,Student89,22,F,Computer Science,51,80,87,82,Hyderabad
+1090,Student90,24,F,Mathematics,56,88,86,99,Mumbai
+1091,Student91,19,M,Biology,53,52,84,70,Pune
+1092,Student92,19,F,Biology,53,73,94,67,Kolkata
+1093,Student93,21,M,Physics,96,84,40,88,Hyderabad
+1094,Student94,19,M,Mathematics,73,61,56,89,Kolkata
+1095,Student95,19,M,Physics,92,92,42,69,Delhi
+1096,Student96,23,F,Mathematics,96,98,65,98,Mumbai
+1097,Student97,21,M,Physics,59,62,54,87,Delhi
+1098,Student98,23,M,Biology,50,90,75,95,Mumbai
+1099,Student99,24,M,Biology,55,42,71,72,Hyderabad
+1100,Student100,24,F,Computer Science,90,81,71,91,Chennai
+1101,Student101,23,F,Physics,70,73,43,95,Kolkata
+1102,Student102,24,F,Chemistry,94,71,57,96,Kolkata
+1103,Student103,21,F,Computer Science,45,84,88,85,Bangalore
+1104,Student104,18,F,Physics,95,90,58,81,Pune
+1105,Student105,23,M,Physics,58,97,82,63,Delhi
+1106,Student106,22,F,Computer Science,76,88,91,90,Kolkata
+1107,Student107,22,F,Biology,97,60,74,77,Hyderabad
+1108,Student108,19,F,Physics,43,85,79,97,Chennai
+1109,Student109,24,M,Biology,86,83,53,83,Pune
+1110,Student110,22,F,Computer Science,43,60,97,82,Hyderabad
+1111,Student111,19,F,Biology,59,83,72,81,Delhi
+1112,Student112,18,M,Mathematics,49,50,53,61,Bangalore
+1113,Student113,21,F,Chemistry,63,78,73,90,Kolkata
+1114,Student114,21,M,Physics,93,43,94,70,Hyderabad
+1115,Student115,21,M,Chemistry,74,90,43,87,Pune
+1116,Student116,22,M,Biology,65,40,63,91,Mumbai
+1117,Student117,18,M,Physics,76,67,98,64,Chennai
+1118,Student118,22,M,Biology,77,63,68,97,Pune
+1119,Student119,24,F,Mathematics,60,74,58,69,Hyderabad
+1120,Student120,22,M,Computer Science,93,52,45,99,Chennai
+1121,Student121,18,M,Physics,79,86,96,83,Kolkata
+1122,Student122,18,F,Mathematics,78,73,72,94,Mumbai
+1123,Student123,24,M,Mathematics,60,50,88,82,Bangalore
+1124,Student124,18,F,Physics,49,75,79,76,Pune
+1125,Student125,18,F,Biology,77,90,58,60,Bangalore
+1126,Student126,21,F,Mathematics,85,56,92,90,Mumbai
+1127,Student127,24,M,Chemistry,43,74,40,90,Chennai
+1128,Student128,20,M,Mathematics,99,99,44,93,Kolkata
+1129,Student129,20,M,Biology,96,57,66,68,Hyderabad
+1130,Student130,18,F,Biology,84,79,55,81,Mumbai
+1131,Student131,20,M,Chemistry,59,61,45,72,Delhi
+1132,Student132,20,M,Mathematics,56,96,79,84,Chennai
+1133,Student133,18,M,Biology,94,63,52,77,Bangalore
+1134,Student134,20,F,Physics,46,97,87,71,Pune
+1135,Student135,22,F,Computer Science,43,58,74,99,Mumbai
+1136,Student136,19,M,Computer Science,68,76,58,76,Bangalore
+1137,Student137,24,M,Computer Science,53,78,51,74,Chennai
+1138,Student138,19,M,Mathematics,42,60,55,74,Bangalore
+1139,Student139,18,M,Chemistry,63,47,98,74,Mumbai
+1140,Student140,21,F,Biology,76,67,82,98,Chennai
+1141,Student141,24,F,Physics,55,44,49,72,Delhi
+1142,Student142,18,F,Physics,97,56,64,76,Mumbai
+1143,Student143,21,F,Mathematics,94,76,59,91,Hyderabad
+1144,Student144,19,M,Computer Science,91,75,70,68,Kolkata
+1145,Student145,18,M,Mathematics,43,93,43,99,Mumbai
+1146,Student146,24,M,Chemistry,95,58,83,79,Chennai
+1147,Student147,24,F,Chemistry,63,66,62,85,Pune
+1148,Student148,23,M,Biology,73,92,41,86,Kolkata
+1149,Student149,22,F,Biology,69,73,95,80,Mumbai
+1150,Student150,20,F,Chemistry,57,50,61,77,Delhi
+1151,Student151,21,M,Chemistry,58,93,90,72,Pune
+1152,Student152,23,M,Chemistry,70,84,96,75,Delhi
+1153,Student153,20,M,Mathematics,99,86,76,68,Hyderabad
+1154,Student154,20,F,Chemistry,99,51,47,71,Pune
+1155,Student155,18,M,Physics,58,93,46,97,Bangalore
+1156,Student156,20,F,Computer Science,88,60,53,78,Pune
+1157,Student157,22,M,Chemistry,85,93,95,66,Kolkata
+1158,Student158,24,F,Computer Science,58,50,94,94,Pune
+1159,Student159,23,F,Mathematics,61,78,42,77,Chennai
+1160,Student160,20,M,Computer Science,63,67,89,75,Chennai
+1161,Student161,18,F,Mathematics,84,44,55,98,Bangalore
+1162,Student162,22,F,Physics,51,56,94,63,Pune
+1163,Student163,19,M,Mathematics,69,95,58,84,Delhi
+1164,Student164,24,F,Mathematics,97,59,90,91,Delhi
+1165,Student165,24,M,Biology,77,80,57,99,Mumbai
+1166,Student166,23,F,Chemistry,92,85,91,72,Hyderabad
+1167,Student167,24,M,Chemistry,70,97,55,76,Kolkata
+1168,Student168,20,M,Physics,75,51,47,96,Hyderabad
+1169,Student169,18,F,Physics,58,45,99,65,Pune
+1170,Student170,24,F,Chemistry,87,56,72,78,Hyderabad
+1171,Student171,24,F,Biology,84,90,88,72,Mumbai
+1172,Student172,19,F,Chemistry,75,58,51,85,Hyderabad
+1173,Student173,19,F,Biology,69,65,92,73,Bangalore
+1174,Student174,21,M,Physics,94,87,50,90,Mumbai
+1175,Student175,22,F,Computer Science,88,83,44,63,Bangalore
+1176,Student176,20,M,Physics,94,83,66,98,Pune
+1177,Student177,24,M,Physics,72,91,51,67,Mumbai
+1178,Student178,24,F,Mathematics,57,71,56,84,Pune
+1179,Student179,18,M,Mathematics,91,45,45,72,Pune
+1180,Student180,21,M,Mathematics,88,94,72,91,Hyderabad
+1181,Student181,22,M,Mathematics,98,97,44,97,Bangalore
+1182,Student182,21,M,Biology,67,75,96,97,Pune
+1183,Student183,23,F,Chemistry,98,77,67,87,Bangalore
+1184,Student184,22,M,Computer Science,86,50,53,89,Bangalore
+1185,Student185,24,F,Physics,50,72,44,62,Mumbai
+1186,Student186,24,F,Biology,96,63,93,87,Chennai
+1187,Student187,22,M,Computer Science,99,62,95,62,Hyderabad
+1188,Student188,24,F,Biology,93,54,98,93,Pune
+1189,Student189,20,F,Biology,84,66,72,75,Bangalore
+1190,Student190,22,F,Physics,72,50,89,81,Kolkata
+1191,Student191,21,M,Chemistry,56,96,87,91,Chennai
+1192,Student192,22,F,Mathematics,45,90,80,97,Pune
+1193,Student193,24,F,Chemistry,43,89,58,67,Kolkata
+1194,Student194,20,F,Physics,59,56,61,67,Hyderabad
+1195,Student195,20,M,Physics,87,90,44,65,Hyderabad
+1196,Student196,23,F,Physics,86,92,98,73,Bangalore
+1197,Student197,21,M,Computer Science,66,53,41,91,Bangalore
+1198,Student198,19,M,Chemistry,54,66,69,94,Pune
+1199,Student199,19,M,Chemistry,45,57,86,69,Mumbai
+1200,Student200,22,M,Biology,86,67,78,62,Chennai
+1201,Student201,23,M,Biology,53,90,43,71,Pune
+1202,Student202,18,M,Biology,99,86,72,90,Chennai
+1203,Student203,22,F,Physics,50,86,52,88,Bangalore
+1204,Student204,23,M,Chemistry,78,43,59,64,Hyderabad
+1205,Student205,21,F,Physics,48,46,93,84,Bangalore
+1206,Student206,21,F,Computer Science,65,84,46,90,Hyderabad
+1207,Student207,21,M,Biology,55,74,54,80,Pune
+1208,Student208,21,F,Physics,44,87,62,79,Hyderabad
+1209,Student209,21,F,Physics,96,48,53,98,Bangalore
+1210,Student210,23,F,Computer Science,91,47,62,81,Delhi
+1211,Student211,23,F,Mathematics,49,91,58,63,Chennai
+1212,Student212,20,M,Chemistry,89,84,93,72,Kolkata
+1213,Student213,19,F,Mathematics,42,56,68,79,Hyderabad
+1214,Student214,24,M,Biology,52,56,95,72,Hyderabad
+1215,Student215,21,F,Physics,82,88,59,76,Delhi
+1216,Student216,18,F,Computer Science,88,72,68,95,Pune
+1217,Student217,24,M,Computer Science,69,71,63,92,Pune
+1218,Student218,23,F,Chemistry,93,47,57,60,Pune
+1219,Student219,18,F,Mathematics,84,58,49,74,Kolkata
+1220,Student220,18,F,Chemistry,45,77,80,72,Mumbai
+1221,Student221,18,M,Physics,56,42,96,76,Delhi
+1222,Student222,20,F,Chemistry,98,98,47,83,Kolkata
+1223,Student223,23,M,Computer Science,84,44,65,67,Delhi
+1224,Student224,18,F,Computer Science,90,52,68,86,Hyderabad
+1225,Student225,21,M,Biology,92,86,49,82,Chennai
+1226,Student226,22,M,Biology,58,85,56,67,Delhi
+1227,Student227,18,F,Physics,81,70,41,67,Mumbai
+1228,Student228,20,F,Mathematics,74,94,45,85,Bangalore
+1229,Student229,24,M,Chemistry,85,55,97,72,Kolkata
+1230,Student230,23,M,Physics,65,89,44,98,Delhi
+1231,Student231,20,F,Biology,90,71,67,96,Delhi
+1232,Student232,18,M,Chemistry,44,61,80,87,Mumbai
+1233,Student233,23,F,Biology,68,68,44,84,Chennai
+1234,Student234,22,F,Chemistry,76,61,57,75,Delhi
+1235,Student235,18,F,Mathematics,59,82,65,61,Delhi
+1236,Student236,20,F,Physics,88,42,59,77,Chennai
+1237,Student237,19,M,Chemistry,60,93,80,76,Mumbai
+1238,Student238,21,F,Computer Science,49,49,88,89,Kolkata
+1239,Student239,24,M,Computer Science,44,81,66,98,Kolkata
+1240,Student240,20,F,Chemistry,75,60,88,72,Delhi
+1241,Student241,23,M,Chemistry,45,55,51,91,Chennai
+1242,Student242,18,F,Chemistry,65,51,46,88,Delhi
+1243,Student243,21,M,Computer Science,43,41,98,89,Pune
+1244,Student244,18,M,Computer Science,78,80,42,77,Bangalore
+1245,Student245,23,F,Chemistry,78,63,49,72,Kolkata
+1246,Student246,18,F,Biology,89,74,73,80,Pune
+1247,Student247,19,F,Biology,74,95,64,89,Hyderabad
+1248,Student248,21,F,Mathematics,40,69,74,80,Bangalore
+1249,Student249,21,M,Physics,63,96,55,76,Delhi
+1250,Student250,23,F,Biology,96,69,41,99,Mumbai
+1251,Student251,24,M,Computer Science,75,86,99,78,Kolkata
+1252,Student252,19,M,Biology,45,74,63,74,Hyderabad
+1253,Student253,20,F,Mathematics,80,58,49,68,Bangalore
+1254,Student254,18,M,Mathematics,93,89,77,69,Kolkata
+1255,Student255,22,M,Physics,85,47,61,90,Chennai
+1256,Student256,18,M,Biology,99,65,65,82,Mumbai
+1257,Student257,18,M,Computer Science,83,88,82,89,Bangalore
+1258,Student258,20,F,Computer Science,99,79,94,92,Chennai
+1259,Student259,18,F,Chemistry,96,46,78,68,Pune
+1260,Student260,19,F,Computer Science,70,69,66,60,Delhi
+1261,Student261,19,F,Physics,59,46,68,94,Chennai
+1262,Student262,21,M,Physics,63,42,86,70,Bangalore
+1263,Student263,23,M,Computer Science,64,40,77,93,Bangalore
+1264,Student264,24,F,Computer Science,75,75,59,75,Pune
+1265,Student265,22,F,Chemistry,60,64,66,68,Delhi
+1266,Student266,18,F,Computer Science,69,76,80,91,Chennai
+1267,Student267,18,M,Chemistry,63,40,93,74,Chennai
+1268,Student268,20,F,Chemistry,83,54,59,71,Delhi
+1269,Student269,23,F,Computer Science,81,76,83,92,Chennai
+1270,Student270,19,F,Mathematics,69,52,58,73,Kolkata
+1271,Student271,22,M,Mathematics,61,79,59,67,Delhi
+1272,Student272,21,M,Chemistry,67,47,74,67,Mumbai
+1273,Student273,19,M,Computer Science,46,44,86,86,Bangalore
+1274,Student274,23,M,Mathematics,74,99,41,71,Mumbai
+1275,Student275,24,M,Computer Science,94,48,69,60,Kolkata
+1276,Student276,21,M,Computer Science,67,40,92,99,Pune
+1277,Student277,24,M,Computer Science,53,75,73,70,Kolkata
+1278,Student278,20,M,Biology,95,74,61,98,Hyderabad
+1279,Student279,20,F,Computer Science,49,41,42,90,Hyderabad
+1280,Student280,18,F,Biology,55,79,45,76,Hyderabad
+1281,Student281,24,M,Chemistry,55,62,54,92,Delhi
+1282,Student282,23,M,Mathematics,93,48,66,91,Chennai
+1283,Student283,22,F,Mathematics,70,73,49,88,Kolkata
+1284,Student284,21,M,Mathematics,81,85,48,80,Mumbai
+1285,Student285,19,M,Mathematics,64,53,72,80,Pune
+1286,Student286,23,M,Mathematics,52,43,71,99,Mumbai
+1287,Student287,23,F,Mathematics,45,69,87,82,Mumbai
+1288,Student288,20,F,Mathematics,83,70,45,65,Mumbai
+1289,Student289,24,F,Chemistry,48,77,80,81,Pune
+1290,Student290,18,F,Computer Science,84,50,98,97,Hyderabad
+1291,Student291,18,F,Physics,75,74,75,96,Mumbai
+1292,Student292,21,M,Biology,95,47,98,67,Pune
+1293,Student293,20,F,Physics,82,42,99,94,Pune
+1294,Student294,23,M,Physics,59,53,41,70,Chennai
+1295,Student295,22,M,Computer Science,57,99,68,83,Pune
+1296,Student296,20,F,Computer Science,97,52,43,80,Hyderabad
+1297,Student297,21,F,Computer Science,82,84,40,61,Mumbai
+1298,Student298,21,M,Mathematics,96,71,58,99,Pune
+1299,Student299,20,M,Chemistry,60,73,65,78,Delhi
+1300,Student300,21,M,Mathematics,43,84,64,98,Pune
+1301,Student301,20,F,Chemistry,89,58,49,87,Bangalore
+1302,Student302,19,F,Chemistry,72,98,92,76,Bangalore
+1303,Student303,20,F,Physics,66,77,54,65,Bangalore
+1304,Student304,24,F,Physics,46,55,98,78,Pune
+1305,Student305,20,F,Chemistry,45,41,61,97,Hyderabad
+1306,Student306,21,M,Chemistry,54,79,90,87,Mumbai
+1307,Student307,24,F,Mathematics,57,56,87,61,Kolkata
+1308,Student308,21,M,Mathematics,71,94,60,97,Kolkata
+1309,Student309,18,M,Physics,95,73,98,96,Kolkata
+1310,Student310,18,M,Computer Science,50,81,95,63,Hyderabad
+1311,Student311,24,F,Chemistry,59,99,61,81,Chennai
+1312,Student312,19,F,Mathematics,63,55,75,85,Delhi
+1313,Student313,18,F,Physics,54,77,73,95,Delhi
+1314,Student314,20,M,Mathematics,87,99,69,72,Bangalore
+1315,Student315,21,M,Chemistry,46,41,64,91,Bangalore
+1316,Student316,18,M,Chemistry,60,41,84,76,Pune
+1317,Student317,18,M,Biology,81,65,67,95,Kolkata
+1318,Student318,19,M,Computer Science,65,52,40,78,Pune
+1319,Student319,24,M,Biology,83,95,88,94,Kolkata
+1320,Student320,24,F,Physics,95,86,84,99,Bangalore
+1321,Student321,23,F,Mathematics,53,70,43,87,Mumbai
+1322,Student322,19,F,Physics,96,99,46,60,Chennai
+1323,Student323,20,F,Chemistry,76,73,88,77,Pune
+1324,Student324,24,M,Biology,97,78,48,99,Chennai
+1325,Student325,21,M,Biology,60,42,75,92,Chennai
+1326,Student326,19,F,Biology,57,47,58,71,Chennai
+1327,Student327,18,M,Physics,44,62,40,67,Bangalore
+1328,Student328,21,F,Chemistry,42,53,49,83,Delhi
+1329,Student329,21,F,Mathematics,62,95,75,75,Bangalore
+1330,Student330,18,F,Mathematics,65,94,48,63,Chennai
+1331,Student331,19,M,Physics,76,66,84,97,Bangalore
+1332,Student332,18,F,Biology,63,93,85,86,Chennai
+1333,Student333,23,F,Computer Science,88,68,81,68,Hyderabad
+1334,Student334,21,F,Physics,58,78,71,75,Kolkata
+1335,Student335,22,M,Physics,90,92,71,71,Delhi
+1336,Student336,22,M,Chemistry,64,78,45,90,Hyderabad
+1337,Student337,20,F,Mathematics,60,40,87,83,Mumbai
+1338,Student338,24,M,Physics,51,56,77,73,Bangalore
+1339,Student339,18,M,Physics,96,80,56,84,Mumbai
+1340,Student340,18,M,Biology,80,69,49,93,Pune
+1341,Student341,20,M,Biology,72,92,89,62,Bangalore
+1342,Student342,20,M,Computer Science,89,52,66,83,Kolkata
+1343,Student343,20,M,Chemistry,92,60,93,68,Hyderabad
+1344,Student344,21,M,Computer Science,43,58,89,85,Kolkata
+1345,Student345,23,M,Biology,81,92,74,79,Pune
+1346,Student346,18,M,Mathematics,96,58,91,99,Chennai
+1347,Student347,21,M,Biology,46,96,98,69,Kolkata
+1348,Student348,20,F,Chemistry,61,64,60,78,Kolkata
+1349,Student349,18,F,Biology,94,61,64,62,Chennai
+1350,Student350,21,M,Chemistry,72,70,67,83,Bangalore
+1351,Student351,23,F,Chemistry,56,56,86,64,Chennai
+1352,Student352,21,F,Chemistry,63,94,54,62,Hyderabad
+1353,Student353,23,M,Chemistry,73,62,43,86,Kolkata
+1354,Student354,20,M,Chemistry,67,71,68,75,Chennai
+1355,Student355,23,M,Mathematics,97,49,98,74,Pune
+1356,Student356,18,F,Computer Science,82,49,48,94,Pune
+1357,Student357,20,F,Physics,80,75,66,71,Kolkata
+1358,Student358,18,M,Computer Science,78,47,65,85,Hyderabad
+1359,Student359,22,M,Chemistry,61,93,58,93,Mumbai
+1360,Student360,19,M,Mathematics,88,91,95,82,Hyderabad
+1361,Student361,23,F,Biology,56,59,67,90,Delhi
+1362,Student362,19,F,Mathematics,73,71,56,79,Delhi
+1363,Student363,19,F,Chemistry,45,89,82,71,Delhi
+1364,Student364,23,F,Mathematics,85,53,96,82,Kolkata
+1365,Student365,20,M,Mathematics,45,89,80,63,Pune
+1366,Student366,22,M,Chemistry,73,67,81,82,Bangalore
+1367,Student367,18,M,Mathematics,40,85,89,60,Pune
+1368,Student368,21,M,Physics,49,91,59,84,Bangalore
+1369,Student369,18,F,Physics,60,92,84,61,Bangalore
+1370,Student370,21,F,Mathematics,44,63,79,89,Pune
+1371,Student371,18,M,Biology,41,54,78,62,Kolkata
+1372,Student372,23,M,Chemistry,61,61,88,80,Hyderabad
+1373,Student373,22,F,Physics,87,69,92,84,Bangalore
+1374,Student374,21,M,Biology,96,43,62,79,Mumbai
+1375,Student375,24,F,Mathematics,41,52,86,81,Pune
+1376,Student376,20,M,Biology,49,98,71,80,Pune
+1377,Student377,18,M,Computer Science,73,62,91,92,Delhi
+1378,Student378,18,M,Physics,55,47,86,97,Hyderabad
+1379,Student379,21,M,Mathematics,87,57,72,74,Delhi
+1380,Student380,20,M,Chemistry,90,51,96,74,Pune
+1381,Student381,20,M,Mathematics,78,94,85,84,Pune
+1382,Student382,23,M,Chemistry,61,70,44,80,Bangalore
+1383,Student383,24,F,Mathematics,51,53,82,83,Hyderabad
+1384,Student384,23,F,Biology,63,73,87,64,Chennai
+1385,Student385,23,F,Biology,86,57,73,65,Mumbai
+1386,Student386,23,F,Biology,79,95,79,82,Bangalore
+1387,Student387,23,F,Computer Science,77,73,50,63,Pune
+1388,Student388,23,M,Chemistry,99,50,89,86,Bangalore
+1389,Student389,22,M,Biology,98,80,42,77,Mumbai
+1390,Student390,20,F,Computer Science,49,51,97,80,Pune
+1391,Student391,23,M,Chemistry,74,88,72,87,Mumbai
+1392,Student392,20,F,Mathematics,90,54,50,94,Chennai
+1393,Student393,20,F,Computer Science,88,96,55,81,Bangalore
+1394,Student394,19,M,Physics,71,70,57,99,Kolkata
+1395,Student395,22,M,Computer Science,46,88,69,82,Bangalore
+1396,Student396,23,M,Computer Science,60,97,87,62,Delhi
+1397,Student397,18,F,Chemistry,59,68,94,99,Hyderabad
+1398,Student398,21,M,Mathematics,65,65,49,69,Hyderabad
+1399,Student399,24,F,Physics,43,57,57,84,Delhi
+1400,Student400,18,F,Biology,85,71,77,67,Pune
+1401,Student401,22,F,Biology,91,61,58,70,Hyderabad
+1402,Student402,21,M,Computer Science,61,77,75,64,Mumbai
+1403,Student403,22,M,Chemistry,54,56,98,96,Hyderabad
+1404,Student404,20,F,Chemistry,95,62,52,97,Hyderabad
+1405,Student405,21,M,Biology,79,63,95,88,Delhi
+1406,Student406,20,M,Physics,60,89,85,64,Pune
+1407,Student407,18,M,Mathematics,54,47,42,68,Chennai
+1408,Student408,18,F,Physics,61,80,49,61,Hyderabad
+1409,Student409,21,F,Mathematics,91,45,77,60,Kolkata
+1410,Student410,21,M,Biology,67,44,40,99,Hyderabad
+1411,Student411,23,F,Mathematics,53,83,94,89,Chennai
+1412,Student412,22,M,Chemistry,66,96,95,70,Delhi
+1413,Student413,23,M,Computer Science,80,68,66,87,Chennai
+1414,Student414,22,M,Computer Science,79,67,85,71,Delhi
+1415,Student415,23,M,Biology,97,50,47,98,Mumbai
+1416,Student416,20,F,Chemistry,67,96,90,85,Delhi
+1417,Student417,21,F,Physics,65,40,85,72,Mumbai
+1418,Student418,18,F,Chemistry,88,82,81,67,Mumbai
+1419,Student419,22,M,Computer Science,41,58,56,87,Delhi
+1420,Student420,22,M,Computer Science,64,48,48,89,Kolkata
+1421,Student421,18,M,Chemistry,95,66,45,68,Bangalore
+1422,Student422,23,F,Chemistry,42,73,82,98,Delhi
+1423,Student423,22,M,Computer Science,47,83,64,90,Hyderabad
+1424,Student424,24,F,Physics,83,43,78,80,Kolkata
+1425,Student425,20,F,Biology,72,75,88,93,Kolkata
+1426,Student426,21,F,Biology,81,57,99,90,Hyderabad
+1427,Student427,18,F,Chemistry,91,54,67,84,Bangalore
+1428,Student428,21,F,Biology,74,90,72,71,Kolkata
+1429,Student429,24,F,Computer Science,45,52,93,60,Mumbai
+1430,Student430,22,M,Computer Science,78,58,76,81,Bangalore
+1431,Student431,22,M,Chemistry,91,88,48,99,Pune
+1432,Student432,24,F,Chemistry,62,45,57,96,Hyderabad
+1433,Student433,18,F,Chemistry,64,87,95,60,Bangalore
+1434,Student434,20,M,Physics,98,95,98,60,Delhi
+1435,Student435,19,F,Biology,89,51,60,80,Bangalore
+1436,Student436,18,F,Chemistry,82,90,41,74,Mumbai
+1437,Student437,19,M,Mathematics,58,76,97,76,Delhi
+1438,Student438,24,F,Mathematics,44,56,82,81,Chennai
+1439,Student439,23,F,Computer Science,90,97,98,97,Hyderabad
+1440,Student440,19,F,Biology,50,62,99,94,Hyderabad
+1441,Student441,20,M,Chemistry,95,65,77,75,Bangalore
+1442,Student442,23,M,Mathematics,51,68,97,67,Kolkata
+1443,Student443,19,M,Biology,49,72,79,76,Delhi
+1444,Student444,24,F,Computer Science,47,99,75,76,Chennai
+1445,Student445,23,F,Physics,63,66,89,85,Delhi
+1446,Student446,24,M,Biology,99,64,99,72,Hyderabad
+1447,Student447,19,F,Biology,67,95,82,76,Delhi
+1448,Student448,24,F,Physics,80,94,76,97,Chennai
+1449,Student449,20,F,Biology,75,49,54,76,Kolkata
+1450,Student450,19,F,Computer Science,76,86,67,73,Bangalore
+1451,Student451,19,F,Computer Science,60,62,57,65,Mumbai
+1452,Student452,19,M,Physics,47,60,73,94,Delhi
+1453,Student453,18,F,Chemistry,94,60,61,73,Mumbai
+1454,Student454,18,M,Mathematics,48,82,50,67,Hyderabad
+1455,Student455,18,F,Chemistry,86,52,97,74,Bangalore
+1456,Student456,20,M,Biology,54,76,96,86,Pune
+1457,Student457,23,F,Mathematics,87,72,52,72,Bangalore
+1458,Student458,24,M,Physics,85,63,43,90,Delhi
+1459,Student459,22,F,Physics,79,83,61,94,Kolkata
+1460,Student460,19,M,Mathematics,57,50,46,65,Bangalore
+1461,Student461,24,F,Computer Science,81,56,82,64,Delhi
+1462,Student462,19,M,Mathematics,99,43,93,81,Delhi
+1463,Student463,20,F,Biology,59,86,63,82,Mumbai
+1464,Student464,19,M,Computer Science,45,64,43,84,Bangalore
+1465,Student465,18,M,Physics,51,69,67,93,Delhi
+1466,Student466,22,F,Mathematics,41,48,54,85,Mumbai
+1467,Student467,21,F,Chemistry,46,60,40,64,Chennai
+1468,Student468,19,M,Chemistry,55,59,94,85,Pune
+1469,Student469,24,F,Biology,42,58,42,79,Mumbai
+1470,Student470,18,M,Chemistry,84,58,53,65,Mumbai
+1471,Student471,21,M,Mathematics,42,51,77,65,Delhi
+1472,Student472,22,M,Mathematics,66,76,89,77,Hyderabad
+1473,Student473,21,F,Chemistry,89,81,96,63,Hyderabad
+1474,Student474,18,M,Mathematics,82,56,40,76,Kolkata
+1475,Student475,23,M,Biology,79,76,77,73,Hyderabad
+1476,Student476,23,F,Computer Science,77,93,77,73,Mumbai
+1477,Student477,21,F,Biology,72,87,60,72,Kolkata
+1478,Student478,20,F,Biology,67,78,87,66,Delhi
+1479,Student479,24,F,Mathematics,40,67,68,74,Bangalore
+1480,Student480,24,M,Computer Science,94,80,44,78,Pune
+1481,Student481,21,M,Mathematics,47,74,88,94,Pune
+1482,Student482,19,M,Physics,76,86,49,76,Mumbai
+1483,Student483,19,M,Mathematics,71,87,67,94,Mumbai
+1484,Student484,24,F,Mathematics,99,57,60,78,Kolkata
+1485,Student485,24,M,Mathematics,87,53,89,79,Delhi
+1486,Student486,23,M,Computer Science,82,74,46,95,Chennai
+1487,Student487,20,F,Mathematics,76,83,42,94,Mumbai
+1488,Student488,18,M,Computer Science,43,80,84,91,Chennai
+1489,Student489,19,M,Chemistry,69,99,86,99,Chennai
+1490,Student490,24,M,Physics,45,46,59,83,Hyderabad
+1491,Student491,23,M,Computer Science,85,80,58,76,Delhi
+1492,Student492,22,M,Chemistry,93,52,74,66,Pune
+1493,Student493,23,M,Computer Science,58,57,43,60,Pune
+1494,Student494,19,F,Computer Science,71,76,44,94,Chennai
+1495,Student495,19,F,Physics,48,52,40,91,Pune
+1496,Student496,23,M,Biology,51,75,43,95,Delhi
+1497,Student497,18,M,Biology,50,70,51,72,Hyderabad
+1498,Student498,21,F,Computer Science,85,41,99,65,Delhi
+1499,Student499,19,M,Mathematics,94,55,66,73,Mumbai
+1500,Student500,23,M,Chemistry,55,48,95,96,Chennai
+1501,Student501,24,M,Mathematics,40,48,81,74,Delhi
+1502,Student502,23,F,Mathematics,84,77,62,63,Pune
+1503,Student503,20,M,Computer Science,94,50,64,99,Bangalore
+1504,Student504,21,F,Computer Science,92,93,60,75,Delhi
+1505,Student505,22,M,Computer Science,60,95,97,87,Chennai
+1506,Student506,18,F,Computer Science,69,61,91,75,Hyderabad
+1507,Student507,22,F,Biology,52,72,63,63,Pune
+1508,Student508,21,M,Computer Science,73,75,64,85,Hyderabad
+1509,Student509,21,F,Biology,43,84,84,87,Chennai
+1510,Student510,21,M,Biology,67,62,94,91,Pune
+1511,Student511,22,F,Computer Science,77,84,85,61,Mumbai
+1512,Student512,24,M,Physics,97,84,71,90,Pune
+1513,Student513,21,M,Chemistry,70,73,94,62,Mumbai
+1514,Student514,23,F,Mathematics,98,48,71,67,Hyderabad
+1515,Student515,22,M,Biology,94,63,44,83,Hyderabad
+1516,Student516,21,M,Chemistry,66,47,75,74,Chennai
+1517,Student517,23,F,Physics,44,46,85,90,Mumbai
+1518,Student518,24,M,Mathematics,64,75,81,68,Hyderabad
+1519,Student519,20,M,Mathematics,42,57,88,98,Mumbai
+1520,Student520,24,F,Biology,72,42,81,61,Hyderabad
+1521,Student521,21,F,Computer Science,43,67,97,67,Pune
+1522,Student522,22,M,Physics,64,45,78,66,Delhi
+1523,Student523,19,M,Biology,59,83,55,98,Bangalore
+1524,Student524,21,F,Physics,73,83,72,75,Pune
+1525,Student525,19,F,Computer Science,65,60,88,94,Kolkata
+1526,Student526,23,M,Computer Science,44,67,60,89,Delhi
+1527,Student527,20,F,Biology,74,79,48,69,Kolkata
+1528,Student528,18,M,Computer Science,67,93,45,97,Hyderabad
+1529,Student529,24,M,Chemistry,68,93,90,77,Bangalore
+1530,Student530,20,M,Mathematics,48,40,84,64,Bangalore
+1531,Student531,21,M,Biology,91,75,74,88,Hyderabad
+1532,Student532,19,M,Physics,77,60,78,98,Hyderabad
+1533,Student533,24,F,Chemistry,89,99,61,93,Mumbai
+1534,Student534,19,F,Biology,45,82,80,82,Hyderabad
+1535,Student535,22,F,Computer Science,58,74,93,64,Chennai
+1536,Student536,19,F,Computer Science,99,52,44,89,Hyderabad
+1537,Student537,22,M,Computer Science,83,96,81,65,Chennai
+1538,Student538,23,M,Computer Science,96,88,62,63,Hyderabad
+1539,Student539,24,M,Physics,50,93,56,88,Mumbai
+1540,Student540,24,M,Chemistry,41,93,51,82,Chennai
+1541,Student541,18,F,Mathematics,86,49,62,65,Delhi
+1542,Student542,21,M,Physics,83,92,55,91,Chennai
+1543,Student543,22,M,Physics,83,83,42,77,Pune
+1544,Student544,18,F,Mathematics,48,86,69,74,Mumbai
+1545,Student545,19,F,Mathematics,60,92,96,99,Kolkata
+1546,Student546,19,F,Computer Science,63,49,61,91,Chennai
+1547,Student547,18,F,Physics,73,85,48,68,Pune
+1548,Student548,24,M,Biology,61,52,68,96,Pune
+1549,Student549,19,M,Mathematics,42,76,86,69,Pune
+1550,Student550,23,F,Mathematics,51,77,76,79,Hyderabad
+1551,Student551,23,M,Chemistry,67,63,62,65,Pune
+1552,Student552,18,M,Biology,69,41,52,62,Hyderabad
+1553,Student553,22,M,Biology,65,61,71,70,Kolkata
+1554,Student554,22,F,Mathematics,87,56,85,76,Mumbai
+1555,Student555,18,M,Computer Science,60,75,91,91,Bangalore
+1556,Student556,22,F,Chemistry,67,53,86,63,Hyderabad
+1557,Student557,24,M,Biology,95,49,87,63,Pune
+1558,Student558,24,M,Mathematics,65,74,62,76,Pune
+1559,Student559,22,M,Biology,72,64,84,78,Delhi
+1560,Student560,23,F,Chemistry,60,42,56,64,Pune
+1561,Student561,22,M,Chemistry,74,86,94,91,Mumbai
+1562,Student562,24,F,Physics,91,77,79,81,Chennai
+1563,Student563,20,F,Mathematics,73,56,60,65,Chennai
+1564,Student564,21,F,Chemistry,80,51,41,94,Pune
+1565,Student565,19,M,Physics,90,93,76,81,Delhi
+1566,Student566,20,M,Physics,86,91,45,60,Hyderabad
+1567,Student567,22,M,Biology,57,63,83,79,Mumbai
+1568,Student568,23,M,Biology,97,68,57,81,Delhi
+1569,Student569,18,F,Physics,50,82,69,70,Hyderabad
+1570,Student570,22,F,Biology,96,64,61,72,Mumbai
+1571,Student571,23,F,Chemistry,62,75,93,62,Pune
+1572,Student572,21,M,Computer Science,87,97,72,68,Chennai
+1573,Student573,22,F,Chemistry,61,99,69,71,Mumbai
+1574,Student574,24,M,Physics,56,65,56,82,Pune
+1575,Student575,18,F,Physics,44,77,82,73,Kolkata
+1576,Student576,23,M,Chemistry,83,40,71,92,Bangalore
+1577,Student577,23,M,Biology,50,59,81,77,Mumbai
+1578,Student578,23,F,Biology,69,94,90,68,Bangalore
+1579,Student579,21,F,Physics,54,67,53,82,Mumbai
+1580,Student580,22,F,Mathematics,66,55,97,69,Bangalore
+1581,Student581,21,F,Biology,74,86,49,78,Kolkata
+1582,Student582,19,M,Chemistry,72,56,86,64,Chennai
+1583,Student583,19,F,Biology,59,79,99,82,Hyderabad
+1584,Student584,22,F,Chemistry,55,67,90,89,Bangalore
+1585,Student585,24,F,Physics,73,97,75,84,Kolkata
+1586,Student586,21,M,Biology,41,51,73,87,Bangalore
+1587,Student587,18,M,Chemistry,74,66,48,93,Chennai
+1588,Student588,23,F,Physics,79,93,81,84,Bangalore
+1589,Student589,23,M,Mathematics,95,92,67,69,Kolkata
+1590,Student590,22,F,Chemistry,67,81,50,73,Pune
+1591,Student591,24,M,Mathematics,86,98,53,89,Kolkata
+1592,Student592,19,M,Mathematics,78,86,78,84,Delhi
+1593,Student593,19,M,Computer Science,45,69,94,73,Chennai
+1594,Student594,23,M,Biology,48,80,86,94,Pune
+1595,Student595,22,F,Chemistry,59,73,93,93,Delhi
+1596,Student596,21,F,Mathematics,99,76,58,69,Chennai
+1597,Student597,19,F,Computer Science,40,45,93,94,Pune
+1598,Student598,21,M,Physics,47,46,54,70,Bangalore
+1599,Student599,24,F,Chemistry,94,71,67,70,Pune
+1600,Student600,19,F,Mathematics,62,71,63,80,Kolkata
+1601,Student601,19,F,Biology,42,92,47,80,Delhi
+1602,Student602,20,M,Computer Science,43,64,82,81,Bangalore
+1603,Student603,19,M,Mathematics,97,72,48,66,Kolkata
+1604,Student604,18,M,Biology,64,94,86,76,Chennai
+1605,Student605,22,F,Mathematics,86,97,72,61,Pune
+1606,Student606,22,F,Chemistry,77,46,72,71,Kolkata
+1607,Student607,21,F,Chemistry,54,91,58,77,Bangalore
+1608,Student608,24,M,Chemistry,60,96,42,70,Delhi
+1609,Student609,19,M,Computer Science,74,51,49,75,Delhi
+1610,Student610,18,F,Chemistry,96,55,79,77,Pune
+1611,Student611,21,M,Biology,92,55,86,94,Kolkata
+1612,Student612,20,M,Mathematics,92,82,81,85,Bangalore
+1613,Student613,21,M,Physics,85,92,40,75,Mumbai
+1614,Student614,21,M,Biology,91,75,68,65,Chennai
+1615,Student615,19,F,Biology,53,52,89,71,Chennai
+1616,Student616,20,M,Chemistry,75,46,73,72,Bangalore
+1617,Student617,21,M,Computer Science,51,75,90,63,Mumbai
+1618,Student618,18,M,Mathematics,56,86,52,98,Delhi
+1619,Student619,18,M,Computer Science,78,90,93,61,Pune
+1620,Student620,22,F,Mathematics,48,48,40,85,Hyderabad
+1621,Student621,20,F,Mathematics,74,71,73,86,Hyderabad
+1622,Student622,20,M,Computer Science,99,50,68,86,Pune
+1623,Student623,22,M,Biology,52,47,87,74,Bangalore
+1624,Student624,21,M,Mathematics,54,72,86,67,Mumbai
+1625,Student625,20,M,Computer Science,57,62,52,66,Mumbai
+1626,Student626,18,M,Mathematics,90,64,87,99,Chennai
+1627,Student627,18,M,Physics,72,95,88,71,Delhi
+1628,Student628,19,F,Biology,45,47,92,72,Kolkata
+1629,Student629,20,M,Chemistry,98,84,68,76,Mumbai
+1630,Student630,21,F,Mathematics,66,61,78,76,Pune
+1631,Student631,22,F,Physics,62,98,63,95,Kolkata
+1632,Student632,22,M,Chemistry,98,43,65,80,Hyderabad
+1633,Student633,21,F,Chemistry,66,79,56,67,Kolkata
+1634,Student634,24,F,Mathematics,73,42,46,64,Delhi
+1635,Student635,23,F,Computer Science,95,68,52,85,Pune
+1636,Student636,19,F,Mathematics,85,80,44,75,Delhi
+1637,Student637,22,F,Physics,77,68,65,95,Kolkata
+1638,Student638,20,F,Chemistry,53,73,88,87,Bangalore
+1639,Student639,19,M,Mathematics,75,73,42,88,Mumbai
+1640,Student640,20,F,Computer Science,92,67,46,71,Pune
+1641,Student641,24,F,Mathematics,47,52,97,96,Bangalore
+1642,Student642,18,F,Biology,74,54,88,89,Kolkata
+1643,Student643,19,M,Computer Science,58,99,78,82,Mumbai
+1644,Student644,22,F,Physics,69,62,92,75,Chennai
+1645,Student645,19,M,Chemistry,53,83,40,73,Bangalore
+1646,Student646,19,F,Mathematics,98,65,88,69,Bangalore
+1647,Student647,19,M,Computer Science,59,43,56,66,Kolkata
+1648,Student648,23,M,Biology,88,65,82,96,Hyderabad
+1649,Student649,19,F,Computer Science,64,79,64,88,Kolkata
+1650,Student650,20,F,Biology,79,48,98,62,Bangalore
+1651,Student651,18,M,Physics,63,94,42,74,Mumbai
+1652,Student652,24,F,Chemistry,53,44,54,95,Hyderabad
+1653,Student653,21,M,Physics,65,95,68,78,Kolkata
+1654,Student654,19,M,Mathematics,77,71,92,72,Pune
+1655,Student655,22,M,Computer Science,62,59,82,80,Kolkata
+1656,Student656,19,M,Biology,61,89,71,96,Bangalore
+1657,Student657,22,M,Biology,87,50,65,86,Bangalore
+1658,Student658,20,F,Computer Science,96,54,99,88,Chennai
+1659,Student659,22,M,Computer Science,58,71,55,79,Kolkata
+1660,Student660,21,M,Mathematics,85,67,64,84,Bangalore
+1661,Student661,18,F,Physics,90,61,93,65,Pune
+1662,Student662,22,M,Biology,42,80,67,95,Delhi
+1663,Student663,22,F,Mathematics,81,56,48,61,Hyderabad
+1664,Student664,18,F,Physics,58,98,95,81,Delhi
+1665,Student665,21,F,Mathematics,48,65,95,91,Hyderabad
+1666,Student666,19,M,Biology,67,83,40,75,Pune
+1667,Student667,22,M,Computer Science,59,46,68,77,Kolkata
+1668,Student668,18,M,Computer Science,84,81,96,64,Chennai
+1669,Student669,20,F,Physics,46,96,61,95,Bangalore
+1670,Student670,18,M,Chemistry,53,65,55,89,Bangalore
+1671,Student671,20,F,Physics,48,64,80,78,Bangalore
+1672,Student672,21,M,Chemistry,98,49,90,82,Kolkata
+1673,Student673,19,F,Mathematics,99,98,83,93,Hyderabad
+1674,Student674,18,M,Mathematics,94,84,90,72,Pune
+1675,Student675,24,M,Biology,96,58,93,88,Bangalore
+1676,Student676,24,M,Chemistry,99,50,80,95,Delhi
+1677,Student677,23,F,Biology,58,52,46,81,Bangalore
+1678,Student678,22,F,Computer Science,86,92,53,95,Kolkata
+1679,Student679,21,M,Chemistry,91,47,68,68,Pune
+1680,Student680,18,M,Physics,53,79,58,98,Chennai
+1681,Student681,24,F,Computer Science,95,43,58,78,Pune
+1682,Student682,22,F,Computer Science,77,86,41,97,Delhi
+1683,Student683,24,F,Physics,92,70,80,65,Bangalore
+1684,Student684,18,M,Computer Science,75,67,84,74,Bangalore
+1685,Student685,20,F,Chemistry,79,50,54,79,Mumbai
+1686,Student686,18,M,Biology,56,82,42,68,Hyderabad
+1687,Student687,23,F,Computer Science,69,40,50,91,Delhi
+1688,Student688,18,M,Chemistry,48,88,92,63,Mumbai
+1689,Student689,18,F,Mathematics,72,86,85,77,Pune
+1690,Student690,23,F,Chemistry,95,91,69,64,Chennai
+1691,Student691,21,F,Biology,91,77,96,79,Hyderabad
+1692,Student692,18,F,Chemistry,64,63,79,82,Delhi
+1693,Student693,23,F,Physics,53,93,57,70,Bangalore
+1694,Student694,22,M,Biology,50,99,90,96,Pune
+1695,Student695,20,F,Mathematics,92,96,87,81,Delhi
+1696,Student696,20,F,Physics,74,86,41,63,Bangalore
+1697,Student697,18,F,Chemistry,80,70,71,88,Hyderabad
+1698,Student698,21,M,Biology,98,80,47,93,Bangalore
+1699,Student699,21,F,Mathematics,53,85,61,72,Chennai
+1700,Student700,22,M,Physics,69,89,45,68,Pune
+1701,Student701,18,F,Mathematics,80,65,51,90,Kolkata
+1702,Student702,20,F,Chemistry,43,88,86,66,Bangalore
+1703,Student703,21,M,Mathematics,98,89,96,63,Chennai
+1704,Student704,18,F,Computer Science,43,44,79,78,Kolkata
+1705,Student705,24,M,Physics,67,59,75,89,Pune
+1706,Student706,21,M,Mathematics,47,91,54,90,Hyderabad
+1707,Student707,23,F,Chemistry,41,80,67,94,Hyderabad
+1708,Student708,24,M,Chemistry,80,50,91,80,Pune
+1709,Student709,21,F,Mathematics,85,95,96,90,Pune
+1710,Student710,20,F,Chemistry,61,93,88,78,Delhi
+1711,Student711,19,M,Biology,80,72,84,90,Chennai
+1712,Student712,24,M,Biology,95,89,57,91,Chennai
+1713,Student713,22,M,Biology,94,77,41,61,Pune
+1714,Student714,22,M,Computer Science,55,66,52,69,Mumbai
+1715,Student715,20,F,Mathematics,68,73,84,61,Mumbai
+1716,Student716,21,F,Computer Science,88,54,93,61,Kolkata
+1717,Student717,18,M,Chemistry,87,71,54,83,Kolkata
+1718,Student718,21,F,Computer Science,69,97,59,76,Mumbai
+1719,Student719,20,F,Chemistry,51,60,68,91,Pune
+1720,Student720,22,F,Chemistry,74,85,98,75,Pune
+1721,Student721,21,F,Physics,50,44,81,75,Kolkata
+1722,Student722,22,M,Biology,85,45,68,98,Bangalore
+1723,Student723,24,M,Chemistry,89,77,42,90,Pune
+1724,Student724,18,F,Physics,60,61,58,83,Mumbai
+1725,Student725,24,M,Biology,60,57,42,60,Chennai
+1726,Student726,22,M,Chemistry,44,53,93,70,Pune
+1727,Student727,22,M,Chemistry,87,49,53,80,Pune
+1728,Student728,19,F,Computer Science,59,85,79,63,Bangalore
+1729,Student729,19,F,Computer Science,76,52,98,66,Kolkata
+1730,Student730,24,F,Biology,42,70,94,85,Pune
+1731,Student731,23,M,Chemistry,83,69,43,71,Hyderabad
+1732,Student732,24,F,Mathematics,72,42,98,90,Delhi
+1733,Student733,19,F,Computer Science,92,69,99,76,Mumbai
+1734,Student734,22,M,Biology,48,45,91,92,Hyderabad
+1735,Student735,20,F,Chemistry,48,68,50,70,Kolkata
+1736,Student736,24,F,Chemistry,43,47,97,87,Chennai
+1737,Student737,22,M,Mathematics,74,83,70,91,Delhi
+1738,Student738,20,M,Biology,56,84,82,60,Hyderabad
+1739,Student739,20,M,Chemistry,73,82,71,87,Delhi
+1740,Student740,19,F,Computer Science,63,83,66,66,Mumbai
+1741,Student741,24,F,Mathematics,71,72,69,61,Kolkata
+1742,Student742,21,F,Biology,40,56,82,83,Pune
+1743,Student743,18,M,Mathematics,47,87,41,63,Chennai
+1744,Student744,19,M,Computer Science,84,50,88,78,Kolkata
+1745,Student745,19,F,Biology,62,52,48,85,Delhi
+1746,Student746,21,F,Mathematics,86,89,67,70,Hyderabad
+1747,Student747,18,M,Physics,79,50,70,99,Mumbai
+1748,Student748,22,M,Computer Science,51,70,99,70,Mumbai
+1749,Student749,23,M,Computer Science,93,67,73,62,Kolkata
+1750,Student750,24,M,Computer Science,51,83,95,71,Pune
+1751,Student751,23,F,Physics,85,45,54,62,Hyderabad
+1752,Student752,22,M,Physics,86,80,87,86,Pune
+1753,Student753,19,F,Chemistry,54,55,64,61,Pune
+1754,Student754,18,F,Mathematics,80,43,75,75,Hyderabad
+1755,Student755,19,F,Chemistry,58,74,47,61,Delhi
+1756,Student756,20,M,Mathematics,65,99,48,89,Kolkata
+1757,Student757,19,M,Physics,91,87,97,79,Kolkata
+1758,Student758,19,M,Physics,68,95,97,97,Bangalore
+1759,Student759,22,M,Chemistry,61,98,76,87,Kolkata
+1760,Student760,22,F,Biology,79,65,87,84,Mumbai
+1761,Student761,22,M,Chemistry,60,96,84,91,Delhi
+1762,Student762,23,M,Mathematics,90,51,78,69,Hyderabad
+1763,Student763,20,F,Chemistry,77,50,71,99,Kolkata
+1764,Student764,22,M,Computer Science,59,76,97,92,Delhi
+1765,Student765,18,F,Mathematics,96,64,91,72,Kolkata
+1766,Student766,23,F,Mathematics,68,57,56,96,Hyderabad
+1767,Student767,21,F,Biology,90,58,74,75,Chennai
+1768,Student768,18,F,Physics,43,62,76,81,Hyderabad
+1769,Student769,24,F,Mathematics,94,94,58,79,Hyderabad
+1770,Student770,24,F,Physics,46,77,83,86,Hyderabad
+1771,Student771,18,F,Chemistry,67,93,68,75,Kolkata
+1772,Student772,22,F,Computer Science,67,57,98,93,Bangalore
+1773,Student773,21,M,Biology,43,65,46,91,Hyderabad
+1774,Student774,21,M,Physics,61,45,67,85,Mumbai
+1775,Student775,23,M,Mathematics,51,43,48,84,Mumbai
+1776,Student776,21,M,Physics,84,83,67,61,Delhi
+1777,Student777,24,F,Mathematics,42,90,45,71,Bangalore
+1778,Student778,20,M,Physics,61,68,68,99,Delhi
+1779,Student779,22,F,Mathematics,83,98,97,68,Mumbai
+1780,Student780,21,M,Chemistry,41,73,56,71,Pune
+1781,Student781,23,M,Mathematics,63,56,55,85,Mumbai
+1782,Student782,24,M,Mathematics,73,82,62,68,Chennai
+1783,Student783,20,F,Computer Science,66,82,70,69,Hyderabad
+1784,Student784,19,M,Mathematics,94,92,42,91,Pune
+1785,Student785,19,F,Computer Science,80,55,60,93,Mumbai
+1786,Student786,20,F,Biology,40,41,65,79,Kolkata
+1787,Student787,24,M,Computer Science,47,73,75,98,Kolkata
+1788,Student788,23,M,Chemistry,62,94,81,61,Delhi
+1789,Student789,20,M,Computer Science,77,47,76,60,Pune
+1790,Student790,22,F,Biology,45,52,92,95,Delhi
+1791,Student791,22,M,Chemistry,61,81,61,83,Hyderabad
+1792,Student792,19,F,Physics,64,47,81,86,Hyderabad
+1793,Student793,21,F,Physics,57,69,51,61,Chennai
+1794,Student794,23,M,Computer Science,56,71,81,90,Bangalore
+1795,Student795,19,M,Computer Science,51,75,52,73,Delhi
+1796,Student796,21,F,Biology,45,86,50,61,Hyderabad
+1797,Student797,21,F,Biology,65,69,93,88,Delhi
+1798,Student798,22,F,Mathematics,66,40,55,74,Hyderabad
+1799,Student799,24,M,Biology,47,82,47,71,Mumbai
+1800,Student800,18,F,Mathematics,58,78,79,96,Delhi
+1801,Student801,24,M,Chemistry,99,56,98,87,Mumbai
+1802,Student802,18,F,Computer Science,81,98,96,79,Delhi
+1803,Student803,20,F,Chemistry,40,59,79,98,Bangalore
+1804,Student804,22,M,Biology,96,63,84,83,Chennai
+1805,Student805,21,F,Chemistry,68,89,98,80,Kolkata
+1806,Student806,23,M,Chemistry,84,61,41,69,Kolkata
+1807,Student807,18,M,Chemistry,88,68,69,73,Kolkata
+1808,Student808,24,F,Biology,74,61,69,96,Mumbai
+1809,Student809,21,M,Chemistry,79,83,51,77,Pune
+1810,Student810,18,M,Mathematics,53,48,49,83,Hyderabad
+1811,Student811,18,F,Biology,74,76,83,73,Kolkata
+1812,Student812,18,M,Chemistry,87,49,50,93,Bangalore
+1813,Student813,23,M,Biology,84,75,54,71,Kolkata
+1814,Student814,22,M,Physics,59,76,55,81,Delhi
+1815,Student815,23,F,Mathematics,95,67,56,65,Mumbai
+1816,Student816,19,M,Chemistry,88,67,65,95,Pune
+1817,Student817,21,F,Physics,52,81,41,95,Delhi
+1818,Student818,22,F,Physics,77,82,89,81,Pune
+1819,Student819,22,M,Biology,88,60,51,73,Delhi
+1820,Student820,22,M,Physics,85,63,90,75,Delhi
+1821,Student821,24,M,Mathematics,88,81,65,95,Chennai
+1822,Student822,22,F,Mathematics,47,99,62,84,Chennai
+1823,Student823,23,M,Computer Science,82,79,57,91,Hyderabad
+1824,Student824,22,M,Mathematics,59,41,71,92,Mumbai
+1825,Student825,20,M,Physics,99,94,88,95,Bangalore
+1826,Student826,21,M,Mathematics,72,47,77,79,Bangalore
+1827,Student827,22,M,Biology,65,87,96,77,Bangalore
+1828,Student828,21,F,Computer Science,78,66,86,97,Delhi
+1829,Student829,20,F,Physics,60,61,42,62,Chennai
+1830,Student830,20,M,Computer Science,92,76,77,82,Mumbai
+1831,Student831,21,M,Physics,88,66,42,91,Delhi
+1832,Student832,18,M,Biology,81,96,69,75,Pune
+1833,Student833,19,M,Computer Science,82,68,40,64,Chennai
+1834,Student834,24,F,Chemistry,93,42,69,63,Chennai
+1835,Student835,18,M,Physics,80,83,84,80,Kolkata
+1836,Student836,18,F,Chemistry,48,52,71,99,Kolkata
+1837,Student837,23,F,Computer Science,63,84,67,73,Mumbai
+1838,Student838,24,M,Chemistry,76,49,60,98,Pune
+1839,Student839,24,F,Chemistry,88,75,97,90,Mumbai
+1840,Student840,18,F,Computer Science,80,48,85,73,Mumbai
+1841,Student841,22,F,Biology,56,93,52,65,Delhi
+1842,Student842,23,F,Chemistry,63,95,66,71,Hyderabad
+1843,Student843,23,M,Chemistry,60,94,75,75,Mumbai
+1844,Student844,20,M,Biology,90,66,46,76,Kolkata
+1845,Student845,24,F,Chemistry,98,73,61,82,Hyderabad
+1846,Student846,18,M,Chemistry,78,90,49,73,Delhi
+1847,Student847,20,M,Chemistry,94,40,78,66,Hyderabad
+1848,Student848,21,M,Mathematics,80,71,92,91,Bangalore
+1849,Student849,19,M,Biology,78,64,54,74,Pune
+1850,Student850,23,M,Chemistry,52,68,54,76,Hyderabad
+1851,Student851,21,F,Biology,50,46,43,93,Mumbai
+1852,Student852,21,M,Physics,85,88,71,64,Delhi
+1853,Student853,22,M,Physics,58,42,62,86,Pune
+1854,Student854,19,M,Chemistry,50,59,94,82,Mumbai
+1855,Student855,21,M,Biology,52,59,45,99,Pune
+1856,Student856,21,F,Biology,85,92,63,73,Kolkata
+1857,Student857,19,F,Biology,84,69,59,74,Bangalore
+1858,Student858,19,F,Mathematics,40,74,97,92,Kolkata
+1859,Student859,21,F,Physics,79,74,76,90,Mumbai
+1860,Student860,19,M,Biology,83,88,59,94,Mumbai
+1861,Student861,21,F,Biology,58,78,51,76,Mumbai
+1862,Student862,21,M,Mathematics,51,66,72,87,Chennai
+1863,Student863,22,M,Mathematics,47,65,67,78,Bangalore
+1864,Student864,18,M,Biology,47,53,47,82,Pune
+1865,Student865,21,M,Computer Science,92,56,40,91,Mumbai
+1866,Student866,20,M,Biology,84,57,76,99,Mumbai
+1867,Student867,23,F,Biology,51,84,61,72,Pune
+1868,Student868,24,F,Mathematics,87,91,45,79,Kolkata
+1869,Student869,18,F,Mathematics,72,68,60,94,Kolkata
+1870,Student870,18,F,Biology,84,59,71,64,Mumbai
+1871,Student871,18,M,Biology,65,92,74,68,Delhi
+1872,Student872,22,F,Biology,78,66,54,88,Chennai
+1873,Student873,21,M,Mathematics,67,57,44,65,Kolkata
+1874,Student874,22,F,Biology,97,43,99,84,Delhi
+1875,Student875,21,M,Biology,44,40,95,90,Chennai
+1876,Student876,22,M,Chemistry,47,89,85,81,Mumbai
+1877,Student877,22,F,Computer Science,64,40,89,61,Bangalore
+1878,Student878,23,M,Physics,66,97,87,64,Hyderabad
+1879,Student879,20,M,Computer Science,85,65,45,86,Hyderabad
+1880,Student880,22,F,Chemistry,62,84,64,84,Mumbai
+1881,Student881,23,M,Physics,69,59,95,67,Kolkata
+1882,Student882,19,F,Biology,84,91,85,60,Delhi
+1883,Student883,20,F,Chemistry,86,62,98,79,Bangalore
+1884,Student884,22,F,Biology,62,49,95,82,Pune
+1885,Student885,24,M,Mathematics,88,98,79,91,Chennai
+1886,Student886,18,M,Chemistry,86,50,68,70,Mumbai
+1887,Student887,19,M,Mathematics,59,80,46,98,Bangalore
+1888,Student888,19,F,Chemistry,57,80,79,83,Bangalore
+1889,Student889,23,M,Chemistry,57,44,52,70,Kolkata
+1890,Student890,19,F,Mathematics,41,97,77,88,Chennai
+1891,Student891,20,F,Physics,43,40,57,85,Bangalore
+1892,Student892,22,M,Computer Science,69,56,41,75,Kolkata
+1893,Student893,22,F,Biology,72,61,47,94,Delhi
+1894,Student894,24,M,Chemistry,75,73,50,79,Kolkata
+1895,Student895,18,M,Biology,57,95,72,62,Delhi
+1896,Student896,23,M,Mathematics,76,84,93,60,Delhi
+1897,Student897,18,M,Biology,58,80,77,60,Pune
+1898,Student898,19,M,Mathematics,86,68,87,76,Pune
+1899,Student899,24,F,Biology,67,43,66,61,Bangalore
+1900,Student900,18,F,Computer Science,79,44,59,88,Kolkata
+1901,Student901,20,F,Computer Science,59,50,51,79,Pune
+1902,Student902,22,M,Computer Science,88,95,82,65,Delhi
+1903,Student903,19,M,Computer Science,72,90,70,67,Pune
+1904,Student904,24,M,Computer Science,51,60,66,88,Chennai
+1905,Student905,18,F,Computer Science,97,74,71,92,Bangalore
+1906,Student906,23,M,Mathematics,90,51,49,62,Kolkata
+1907,Student907,20,F,Chemistry,54,65,42,94,Kolkata
+1908,Student908,20,F,Biology,80,90,84,64,Hyderabad
+1909,Student909,18,M,Computer Science,78,58,66,86,Kolkata
+1910,Student910,22,M,Mathematics,41,84,74,71,Bangalore
+1911,Student911,18,F,Mathematics,68,99,70,79,Chennai
+1912,Student912,19,M,Mathematics,80,46,54,79,Kolkata
+1913,Student913,18,F,Chemistry,49,86,55,68,Hyderabad
+1914,Student914,20,M,Biology,41,94,52,98,Bangalore
+1915,Student915,24,M,Chemistry,90,46,88,63,Delhi
+1916,Student916,18,F,Physics,50,65,74,78,Mumbai
+1917,Student917,22,M,Mathematics,52,79,91,97,Mumbai
+1918,Student918,24,F,Physics,49,44,50,86,Delhi
+1919,Student919,23,M,Computer Science,53,60,98,72,Pune
+1920,Student920,21,F,Computer Science,57,53,60,72,Kolkata
+1921,Student921,18,F,Chemistry,90,43,90,81,Mumbai
+1922,Student922,22,M,Biology,93,62,93,87,Pune
+1923,Student923,24,F,Physics,48,81,50,81,Mumbai
+1924,Student924,22,M,Biology,96,59,69,78,Delhi
+1925,Student925,23,M,Chemistry,78,54,99,67,Kolkata
+1926,Student926,20,M,Computer Science,67,89,87,67,Kolkata
+1927,Student927,22,F,Biology,42,91,92,85,Pune
+1928,Student928,24,F,Biology,59,84,74,85,Delhi
+1929,Student929,22,M,Computer Science,45,68,61,82,Pune
+1930,Student930,22,M,Physics,66,47,77,72,Kolkata
+1931,Student931,22,F,Computer Science,92,80,70,87,Kolkata
+1932,Student932,19,M,Biology,41,87,53,68,Bangalore
+1933,Student933,19,M,Physics,68,58,63,79,Pune
+1934,Student934,20,F,Physics,77,87,89,78,Bangalore
+1935,Student935,18,M,Computer Science,42,78,88,98,Delhi
+1936,Student936,22,F,Biology,55,85,71,71,Chennai
+1937,Student937,23,M,Chemistry,69,67,75,74,Mumbai
+1938,Student938,18,F,Biology,79,85,71,90,Bangalore
+1939,Student939,23,M,Mathematics,41,96,94,73,Mumbai
+1940,Student940,18,M,Chemistry,56,66,54,70,Hyderabad
+1941,Student941,20,F,Physics,80,43,82,85,Delhi
+1942,Student942,22,M,Chemistry,51,97,97,86,Chennai
+1943,Student943,22,F,Physics,74,54,74,70,Hyderabad
+1944,Student944,21,M,Physics,82,74,42,97,Hyderabad
+1945,Student945,23,F,Chemistry,40,76,55,93,Kolkata
+1946,Student946,18,F,Physics,94,40,44,78,Hyderabad
+1947,Student947,18,F,Physics,84,42,60,65,Delhi
+1948,Student948,19,F,Mathematics,54,86,49,97,Bangalore
+1949,Student949,21,M,Biology,65,63,58,87,Delhi
+1950,Student950,24,M,Biology,76,66,64,60,Bangalore
+1951,Student951,24,F,Mathematics,60,79,43,94,Hyderabad
+1952,Student952,19,F,Chemistry,88,75,68,99,Hyderabad
+1953,Student953,19,F,Computer Science,70,73,58,67,Chennai
+1954,Student954,19,M,Computer Science,64,68,82,66,Bangalore
+1955,Student955,23,M,Computer Science,62,63,41,70,Hyderabad
+1956,Student956,23,M,Mathematics,63,63,49,98,Kolkata
+1957,Student957,20,M,Mathematics,96,81,82,63,Mumbai
+1958,Student958,20,F,Physics,77,43,64,84,Chennai
+1959,Student959,19,F,Computer Science,67,42,59,71,Delhi
+1960,Student960,21,F,Chemistry,60,73,87,85,Chennai
+1961,Student961,18,M,Chemistry,93,96,58,97,Mumbai
+1962,Student962,23,M,Computer Science,82,88,62,71,Bangalore
+1963,Student963,21,M,Computer Science,57,62,63,96,Delhi
+1964,Student964,22,F,Computer Science,75,92,50,83,Delhi
+1965,Student965,23,F,Mathematics,74,95,85,75,Bangalore
+1966,Student966,23,M,Mathematics,84,91,73,72,Pune
+1967,Student967,20,F,Mathematics,94,62,94,84,Pune
+1968,Student968,18,M,Biology,48,84,67,63,Chennai
+1969,Student969,18,M,Chemistry,92,44,44,70,Hyderabad
+1970,Student970,24,F,Chemistry,77,70,98,91,Pune
+1971,Student971,24,M,Physics,97,92,44,66,Chennai
+1972,Student972,24,F,Mathematics,69,80,90,70,Pune
+1973,Student973,24,M,Biology,99,96,60,87,Mumbai
+1974,Student974,22,F,Biology,83,96,51,82,Kolkata
+1975,Student975,22,F,Chemistry,73,99,89,82,Hyderabad
+1976,Student976,23,F,Mathematics,71,93,43,87,Chennai
+1977,Student977,19,M,Physics,42,45,93,85,Kolkata
+1978,Student978,20,M,Mathematics,42,76,88,84,Kolkata
+1979,Student979,20,F,Computer Science,67,96,81,88,Pune
+1980,Student980,24,F,Mathematics,83,49,59,78,Bangalore
+1981,Student981,23,M,Computer Science,54,79,77,92,Mumbai
+1982,Student982,21,M,Computer Science,80,46,64,95,Mumbai
+1983,Student983,19,M,Physics,62,78,53,73,Mumbai
+1984,Student984,23,F,Chemistry,79,77,50,73,Hyderabad
+1985,Student985,19,M,Mathematics,50,60,71,94,Delhi
+1986,Student986,19,M,Computer Science,87,59,50,89,Hyderabad
+1987,Student987,19,F,Mathematics,71,42,57,87,Chennai
+1988,Student988,23,M,Chemistry,97,90,66,76,Kolkata
+1989,Student989,24,M,Chemistry,98,61,94,62,Kolkata
+1990,Student990,20,M,Biology,96,86,93,75,Delhi
+1991,Student991,20,F,Chemistry,93,43,57,89,Chennai
+1992,Student992,24,F,Physics,75,67,95,88,Delhi
+1993,Student993,19,F,Computer Science,99,51,62,74,Kolkata
+1994,Student994,21,F,Biology,72,77,50,84,Pune
+1995,Student995,18,F,Physics,63,90,60,97,Hyderabad
+1996,Student996,23,F,Mathematics,78,75,83,97,Mumbai
+1997,Student997,18,F,Computer Science,73,86,44,82,Kolkata
+1998,Student998,24,M,Chemistry,95,80,62,84,Bangalore
+1999,Student999,21,M,Computer Science,67,44,80,66,Mumbai
+2000,Student1000,23,F,Mathematics,76,52,98,81,Kolkata
