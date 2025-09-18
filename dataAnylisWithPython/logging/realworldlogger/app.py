@@ -27,3 +27,8 @@ def sub(a,b):
 
 add(12,45)
 sub(23,434)
+
+s1 = "This is Matrix#  %!"
+s2 = "This is Matrix#  %!"
+print(s2.count(" "))
+print(s1.count(" "))
